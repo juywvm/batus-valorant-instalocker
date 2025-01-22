@@ -1,2 +1,7 @@
-# batus-valorant-instalocker
-User-Friendly Valorant Instalocker Made with Python by batur!
+## FAQ - BATUS VALORANT INSTALOCKER
+# Language
+This instalocker was made with python 3.12 idk if its works with older or new versions of python lol.
+
+# How to use it?
+* First of all, you need python installed.
+* Open cmd.exe in same directory, run this command: `pip install -r requirements.txt`
