@@ -49,7 +49,7 @@ It will instalock only one time, after instalocking agent it will close the prog
 
 
 ## Why its obfuscated?
-* Uh, im actually so sorry about that. Because i spend over hours to make this project, and i dont want people to skid that nasty code.
+* Uh, im actually so sorry about that. Because i spent over hours to make this project, and i dont want people to skid that nasty code.
 * But, you can absolutely control anything with wireshark like if its rat, if its sending diffrent requests to diffrent sites or not. You can believe me its safe!
 * And actually, if you know how to reverse engineering, you can deobfuscate it and inspect the source code. But please dont share with anyone, just be sure if you are safe or not. Thanks
 * And! i can share source code with you! For educational purposes only, like if you are new at python, valorant api, trying to learn something new, etc. contact me at discord and i will give you full source. No problem! :) batus always with you!
