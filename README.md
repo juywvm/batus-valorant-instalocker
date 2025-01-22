@@ -20,6 +20,7 @@ You need to enter CORRECT REGION or it will crash/not work.
 
 If you don't know what region is, its means which server do you play on like NA,EU,BR etc.
 Like if you play on Istanbul server, you need to type EU
+
 If you dont know where the f*ck do live, visit: https://support-valorant.riotgames.com/hc/en-us/articles/360055678634-Server-Select
 
 * After entering region, it will ask you to confirm it. You can type no to change it.
