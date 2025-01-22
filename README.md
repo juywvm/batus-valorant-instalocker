@@ -28,9 +28,13 @@ If you dont know where the f*ck do live, visit: https://support-valorant.riotgam
 * After region, it will show you current supported agents and ask you to type an agent name you see on the terminal.
 
 * After typing an agent name, it will ask you for loop or not.
+
 What is loop?
+
 Its automaticly detects whenever you join a new match, and auto-instalock agent that you typed in everytime. So you dont need to run it every match, it will just run on background and you will be fine.
+
 What if i set loop to NO?
+
 It will instalock only one time, after instalocking agent it will close the program automaticly after 10 seconds.
 
 * After setting loop to true or false, start queue and have fun with instalocking!
