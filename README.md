@@ -4,7 +4,7 @@ This instalocker was made with python 3.12 idk if its works with older or new ve
 
 
 
-## How to use run it?
+## How to use/run it?
 
 * First of all, you need python installed.
 * open the `install all modules on time.bat` file just once
