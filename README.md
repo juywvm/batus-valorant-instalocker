@@ -1,4 +1,4 @@
-# (OFFICIAL SHOWCASE)[github.com/juywvm/batus-valorant-instalocker]
+# [OFFICIAL SHOWCASE](github.com/juywvm/batus-valorant-instalocker)
 
 # FAQ - BATUS VALORANT INSTALOCKER
 ## Language
