@@ -1,3 +1,5 @@
+# OFFICIAL SHOWCASE[github.com/juywvm/batus-valorant-instalocker]
+
 # FAQ - BATUS VALORANT INSTALOCKER
 ## Language
 This instalocker was made with python 3.12 idk if its works with older or new versions of python lol.
