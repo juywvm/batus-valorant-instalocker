@@ -1,0 +1,32 @@
+pip install certifi
+pip install certifi
+pip install charset-normalizer
+pip install colorama
+pip install crypto
+pip install decorator
+pip install idna
+pip install markdown-it-py
+pip install mdurl
+pip install modules
+pip install Naked
+pip install Nuitka
+pip install ordered-set
+pip install psutil
+pip install pyarmor
+pip install pyarmor-webui
+pip install pyarmor.cli.core
+pip install Pygments
+pip install pypiwin32
+pip install pystyle
+pip install pyuac
+pip install pywin32
+pip install PyYAML
+pip install requests
+pip install rich
+pip install shellescape
+pip install tee
+pip install urllib3
+pip install valclient
+pip install zstandard
+ECHO ...
+ECHO installed all modules... you can close the windows right now.
