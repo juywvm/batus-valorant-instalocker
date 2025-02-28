@@ -11,9 +11,6 @@ Naked
 Nuitka
 ordered-set
 psutil
-pyarmor
-pyarmor-webui
-pyarmor.cli.core
 Pygments
 pypiwin32
 pystyle
