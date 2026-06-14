@@ -1,3 +1,8 @@
+# valorant patched whole val-client python library. this tool wont work anymore.
+
+
+
+
 # [OFFICIAL SHOWCASE](https://www.youtube.com/watch?v=rR4CftGzVsA)
 
 # FAQ - BATUS VALORANT INSTALOCKER
